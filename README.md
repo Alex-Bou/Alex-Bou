@@ -1,0 +1,3 @@
+- 👋 Bonjour ! Je m'appelle Alexandre BOUCHET je suis apprenti développeur !
+- 👀 J'aime beaucoup la partie backend du développement même si j'inspire à maitriser le front et le back
+- 🌱 En ce moment je code surtout en PHP/Symfony et Angular pour mes étude!s
